@@ -1,4 +1,4 @@
-Built
+build/
 *.o
-__pycahe__/
+__pycache__/
 venv/
